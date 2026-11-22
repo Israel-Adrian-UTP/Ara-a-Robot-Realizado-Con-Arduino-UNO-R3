@@ -1,4 +1,4 @@
-# 🕷️ Araña Robótica con Arduino UNO R3 — Optimización Energética (FEM)
+# Araña Robótica con Arduino UNO R3 — Optimización Energética (FEM)
 
 Proyecto académico del curso de **FEM** en la **Universidad Tecnológica del Perú (UTP)** enfocado en el diseño, construcción y optimización energética de una araña robótica cuadrúpeda controlada por **Arduino UNO R3** con actuadores electromagnéticos (**MG90S**), detección de obstáculos (**HC-SR04**) y control remoto vía Bluetooth (**HC-05**).
 
